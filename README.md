@@ -1,4 +1,4 @@
-# personal-project
+# Personal-Project
  This repository will hold my personal projects.
  
  # Snake game 
